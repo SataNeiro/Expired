@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.expirytracker.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "com.expirytracker.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.expirytracker.app-mergeDebugResources-36:/layout/fragment_settings.xml",
+        "source": "com.expirytracker.app-main-39:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.expirytracker.app-mergeDebugResources-36:/layout/activity_login.xml",
+        "source": "com.expirytracker.app-main-39:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.expirytracker.app-mergeDebugResources-36:/layout/product_item.xml",
+        "source": "com.expirytracker.app-main-39:/layout/product_item.xml"
+    },
+    {
+        "merged": "com.expirytracker.app-mergeDebugResources-36:/layout/settings_list_item.xml",
+        "source": "com.expirytracker.app-main-39:/layout/settings_list_item.xml"
+    },
+    {
+        "merged": "com.expirytracker.app-mergeDebugResources-36:/layout/fragment_add.xml",
+        "source": "com.expirytracker.app-main-39:/layout/fragment_add.xml"
+    },
+    {
+        "merged": "com.expirytracker.app-mergeDebugResources-36:/layout/fragment_base.xml",
+        "source": "com.expirytracker.app-main-39:/layout/fragment_base.xml"
+    },
+    {
+        "merged": "com.expirytracker.app-mergeDebugResources-36:/layout/base_item.xml",
+        "source": "com.expirytracker.app-main-39:/layout/base_item.xml"
+    },
+    {
+        "merged": "com.expirytracker.app-mergeDebugResources-36:/layout/fragment_sync_settings.xml",
+        "source": "com.expirytracker.app-main-39:/layout/fragment_sync_settings.xml"
+    },
+    {
+        "merged": "com.expirytracker.app-mergeDebugResources-36:/layout/activity_splash.xml",
+        "source": "com.expirytracker.app-main-39:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.expirytracker.app-mergeDebugResources-36:/layout/fragment_general_settings.xml",
+        "source": "com.expirytracker.app-main-39:/layout/fragment_general_settings.xml"
+    },
+    {
+        "merged": "com.expirytracker.app-mergeDebugResources-36:/layout/fragment_products.xml",
+        "source": "com.expirytracker.app-main-39:/layout/fragment_products.xml"
+    },
+    {
+        "merged": "com.expirytracker.app-mergeDebugResources-36:/layout/fragment_scanner_settings.xml",
+        "source": "com.expirytracker.app-main-39:/layout/fragment_scanner_settings.xml"
+    }
+]
